@@ -44,7 +44,7 @@
 <div align="center">
 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kakarot077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=kakarot077&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-streak-stats-nine.vercel.app/?user=kakarot077&theme=tokyonight&hide_border=true" />
 
 </div>
 
